@@ -1,0 +1,4 @@
+MODEL,POWER,WINDSPEED,SITE
+optional_wt_modelname_farm1,2800,13.0,farm1
+optional_wt_modelname_farm2,1100,13.0,farm2
+optional_wt_modelname_farm3,800,11.0,farm3
