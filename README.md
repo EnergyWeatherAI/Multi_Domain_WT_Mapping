@@ -1,5 +1,5 @@
 # Multi_Domain_WT_Mapping
-Code repository of our research article *"Generative Multi-Domain Transfer Learning for Fault Detection in Data-Scarce Wind Turbines"*. [TBA]
+Code repository of our research article *"Generative Multi-Domain Transfer Learning for Fault Detection in Data-Scarce Wind Turbines"*, [available on arxiv](https://arxiv.org/abs/2608.30323).
 
 
 ### Data and structure:
@@ -38,6 +38,3 @@ Evaluates every trained multi-domain WT mapping model configuration found for th
     python evaluate_mapping.py -SETUP_ID=1 -SCARCITY=2w -CUDA_IDX=0
 
 Results are stored in `results/`
-
-### Cite our work:
-TBA
