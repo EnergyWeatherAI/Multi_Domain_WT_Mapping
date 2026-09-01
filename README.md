@@ -1,5 +1,5 @@
 # Multi_Domain_WT_Mapping
-Code repository of our research article *"Generative Multi-Domain Transfer Learning for Fault Detection in Data-Scarce Wind Turbines"*, [available on arxiv](https://arxiv.org/abs/2608.30323).
+Code repository of our research article *"Generative Multi-Domain Transfer Learning for Fault Detection in Data-Scarce Wind Turbines"* [(available on arxiv)](https://arxiv.org/abs/2608.30323).
 
 
 ### Data and structure:
